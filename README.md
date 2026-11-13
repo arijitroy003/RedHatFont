@@ -133,7 +133,7 @@ Note that Red Hat Enterprise Linux/CentOS users will need to [enable Fedora EPEL
 If you are running Homebrew, you can install the fonts with the following:
 
 ```text
-brew install --cask homebrew/cask-fonts/font-redhat
+brew install --cask font-red-hat-display font-red-hat-text
 ```
 
 ## Bug reports and improvement requests
